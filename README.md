@@ -19,5 +19,5 @@ The delete function deletes a node with a given name from the tree.
 •	For deleting a node with two children the node’s data is replaced by its in-order successor which is the smallest node in the right subtree and the in-order successor is removed from the tree.
 •	The _min_value_node function is used to find the smallest node or leftmost node in the right subtree when deleting a node with two children.
 
-![image](https://github.com/user-attachments/assets/8110bd66-b5c0-45d6-adef-0408df21757b)
-![image](https://github.com/user-attachments/assets/ed0bfa6c-0cea-4c2f-b659-d3e3aad96de7)
+![image](https://github.com/user-attachments/assets/d9beffc3-2216-4509-bbc6-45b0407b17b8)
+![image](https://github.com/user-attachments/assets/336d87cd-00b3-4ac9-9a3e-4d673b822268)
