@@ -37,5 +37,7 @@ The delete function deletes a node with a given name from the tree.
 
 The _min_value_node function is used to find the smallest node or leftmost node in the right subtree when deleting a node with two children.
 
+Output:
+
 ![image](https://github.com/user-attachments/assets/d9beffc3-2216-4509-bbc6-45b0407b17b8)
 ![image](https://github.com/user-attachments/assets/336d87cd-00b3-4ac9-9a3e-4d673b822268)
